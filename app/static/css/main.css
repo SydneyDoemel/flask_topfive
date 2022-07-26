@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+   margin: 25vh 0vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Teko', sans-serif;
+
+}
+
+a{
+    font-size: 11vh;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+  
+}
+a:hover {
+    font-size: 12vh;
+    color: rgb(143, 143, 255); 
+}
+p {
+    font-size: 5vh;
+    padding-top: 2vh;
+}

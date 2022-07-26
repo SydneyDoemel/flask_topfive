@@ -1,0 +1,42 @@
+img:hover {
+
+    filter: brightness(120%);
+}
+body {
+    background-image: url('https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Teko', sans-serif;
+
+}
+
+h1 {
+    color: white;
+    font-size: 10vh;
+    margin: 2vh;
+}
+
+.subtext {
+    color: white;
+    font-size: 4vh;
+}
+
+img{
+   height: 20rem;
+    width: auto;
+    object-fit: cover;
+}
+.card, .card-group {
+    border: none;
+    padding: 0 .5rem;
+    background-image: url('https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+    color: white;
+    text-align: center;
+    filter: brightness(110%);
+}
+.card-title{
+font-size: 2.5rem;
+}
+.card-text{ 
+    font-size: 1.7rem;
+}
