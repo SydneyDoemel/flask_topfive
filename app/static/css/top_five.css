@@ -1,6 +1,6 @@
 img:hover {
 
-    filter: brightness(120%);
+   border: solid 2px white;
 }
 body {
     background-image: url('https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
